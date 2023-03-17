@@ -1,0 +1,166 @@
+[
+  {
+    "title": "tv1",
+    "description": "descripcion prod 3",
+    "price": 3500,
+    "thumbnail": "url imagen",
+    "stock": 45,
+    "code": "televisor",
+    "category": "hogar",
+    "status": true,
+    "id": "1"
+  },
+  {
+    "title": "tv2",
+    "description": "descripcion prod 2",
+    "price": 2500,
+    "thumbnail": "url imagen",
+    "stock": 45,
+    "code": "televisor",
+    "category": "hogar",
+    "status": true,
+    "id": "44820200-b24d-478f-1111-e69c4f8cf650"
+  },
+  {
+    "title": "tv3",
+    "description": "descripcion prod 3",
+    "price": 3500,
+    "thumbnail": "url imagen",
+    "stock": 45,
+    "code": "televisor",
+    "category": "hogar",
+    "status": true,
+    "id": "dac58fd1-4123-4b06-ad4f-aade9f184b2e"
+  },
+  {
+    "title": "tv4",
+    "description": "descripcion prod 3",
+    "price": 3500,
+    "thumbnail": "url imagen",
+    "stock": 45,
+    "code": "televisor",
+    "category": "hogar",
+    "status": true,
+    "id": "065592be-4846-4b2b-891e-ceddb54a01a9"
+  },
+  {
+    "title": "tv5",
+    "description": "descripcion prod 3",
+    "price": 3500,
+    "thumbnail": "url imagen",
+    "stock": 45,
+    "code": "televisor",
+    "category": "hogar",
+    "status": true,
+    "id": "065597be-4846-4b2b-891e-ceddb54a01a9"
+  },
+  {
+    "title": "tv6",
+    "description": "descripcion prod 3",
+    "price": 3500,
+    "thumbnail": "url imagen",
+    "stock": 45,
+    "code": "televisor",
+    "category": "hogar",
+    "status": true,
+    "id": "065297be-4899-4b2b-891e-ceddb54a01a9"
+  },
+  {
+    "title": "tv7",
+    "description": "descripcion prod 3",
+    "price": 3500,
+    "thumbnail": "url imagen",
+    "stock": 45,
+    "code": "televisor",
+    "category": "hogar",
+    "status": true,
+    "id": "015597be-4846-4b2b-7777-ceddb54a01a9"
+  },
+  {
+    "title": "tv8",
+    "description": "descripcion prod 3",
+    "price": 3500,
+    "thumbnail": "url imagen",
+    "stock": 45,
+    "code": "televisor",
+    "category": "hogar",
+    "status": true,
+    "id": "063597be-4846-4b2b-891e-cedd124a01a9"
+  },
+  {
+    "title": "tv9",
+    "description": "descripcion prod 3",
+    "price": 3500,
+    "thumbnail": "url imagen",
+    "stock": 45,
+    "code": "televisor",
+    "category": "hogar",
+    "status": true,
+    "id": "068597be-4846-4b2b-891e-12ddb54a01a9"
+  },
+  {
+    "title": "tv10",
+    "description": "descripcion prod 3",
+    "price": 3500,
+    "thumbnail": "url imagen",
+    "stock": 45,
+    "code": "televisor",
+    "category": "hogar",
+    "status": true,
+    "id": "b7e04998-900a-4078-bdff-c0068dba2121"
+  },
+  {
+    "title": "tv11",
+    "description": "descripcion prod 3",
+    "price": 4000,
+    "thumbnail": "url imagen",
+    "stock": 45,
+    "code": "televisor",
+    "category": "hogar",
+    "status": true,
+    "id": "3307ab83-226d-49e2-905a-ef118d60172a"
+  },
+  {
+    "title": "tv12",
+    "description": "descripcion prod 3",
+    "price": 4000,
+    "thumbnail": "url imagen",
+    "stock": 45,
+    "code": "televisor",
+    "category": "hogar",
+    "status": true,
+    "id": "3307ab83-226d-49e2-905a-efd18d10572a"
+  },
+  {
+    "title": "tv15",
+    "description": "descripcion prod 3",
+    "price": 4000,
+    "thumbnail": "url imagen",
+    "stock": 45,
+    "code": "televisor",
+    "category": "hogar",
+    "status": true,
+    "id": "eb75a066-f01e-410e-b4d0-e622893532fd"
+  },
+  {
+    "title": "tv15",
+    "description": "descripcion prod 3",
+    "price": 4000,
+    "thumbnail": "url imagen",
+    "stock": 45,
+    "code": "televisor",
+    "status": true,
+    "category": "hogar",
+    "id": "7e095aff-4370-4eff-980c-a2b43a8f2a06"
+  },
+  {
+    "title": "tv78",
+    "description": "descripcion prod 3",
+    "price": 1500,
+    "thumbnail": "url imagen",
+    "code": "televisor",
+    "stock": 45,
+    "category": "hogar",
+    "id": "63540be6-278a-47dd-8db8-d8d7fd164132"
+  }
+]

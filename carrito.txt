@@ -1,0 +1,60 @@
+[
+  {
+    "id": "36cf8bad-014a-4a19-a913-e85d79a42951",
+    "products": [
+      5,
+      6,
+      7,
+      8,
+      "producto pusheado al carrito 1"
+    ]
+  },
+  {
+    "id": "542dcb5e-1f6d-47b0-8cf0-d895a0ee1616",
+    "products": [
+      1,
+      2,
+      3,
+      4,
+      2
+    ]
+  },
+  {
+    "id": "a6cd0621-fe82-4374-99ea-f78f1e50c998",
+    "quantity": 42,
+    "products": [
+      {
+        "id": "015597be-4846-4b2b-7777-ceddb54a01a9",
+        "quantity": 2
+      },
+      {
+        "id": "063597be-4846-4b2b-891e-cedd124a01a9",
+        "quantity": 18
+      },
+      {
+        "id": "63540be6-278a-47dd-8db8-d8d7fd164132",
+        "quantity": 2
+      },
+      {
+        "id": "7e095aff-4370-4eff-980c-a2b43a8f2a06",
+        "quantity": 2
+      },
+      {
+        "id": "3307ab83-226d-49e2-905a-efd18d10572a",
+        "quantity": 7
+      },
+      {
+        "id": "3307ab83-226d-49e2-905a-ef118d60172a",
+        "quantity": 3
+      },
+      {
+        "id": "b7e04998-900a-4078-bdff-c0068dba2121",
+        "quantity": 5
+      },
+      {
+        "id": "068597be-4846-4b2b-891e-12ddb54a01a9",
+        "quantity": 3
+      }
+    ]
+  }
+]
